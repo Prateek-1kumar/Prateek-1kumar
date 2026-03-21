@@ -15,3 +15,13 @@
 [![](https://visitcount.itsvg.in/api?id=Prateek-1kumar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prateek-1kumar
+/Prateek-1kumar/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prateek-1kumar/Prateek-1kumar/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Prateek-1kumar
+/Prateek-1kumar
+/output/pacman-contribution-graph.svg">
+</picture>
