@@ -25,4 +25,4 @@
 /Prateek-1kumar
 /output/pacman-contribution-graph.svg">
 </picture> -->
-![Pac-Man contribution game](https://raw.githubusercontent.com/thepratyushkumar/pacman-commits/main/dist/pacman-contribution-game.svg)
+
