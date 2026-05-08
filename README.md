@@ -3,7 +3,7 @@
 > Software Engineer. Systems builder. Automation specialist.
 > Turning complex requirements into scalable applications.
 
-I specialize in the space between heavy backend logic and immersive frontends—whether that means engineering real-time data engines or rendering 3D worlds in the browser.
+I specialize in the space between heavy backend logic and immersive frontends, whether that means engineering real-time data engines or rendering 3D worlds in the browser.
 
 I focus on a simple principle:
 
