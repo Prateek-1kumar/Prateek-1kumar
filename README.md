@@ -1,57 +1,45 @@
-<div align="center">
+# Hi, I'm Prateek 👋
 
-<!-- Futuristic Typing Header -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=%3E_System.init();%3E_Initializing+Full-Stack+Environment...;%3E_Building+Scalable+Architectures;%3E_Extracting+Real-Time+Data;%3E_Hello,+World." alt="Typing SVG" />
-</a>
+> Software Engineer. Systems builder. Automation specialist.
+> Turning complex requirements into scalable applications.
 
-<br/>
+I am a systems-minded developer who enjoys building robust infrastructure, high fidelity interfaces, and advanced automation tools.
+
+I focus on a simple principle:
+
+**Engineer for performance. Automate the bottlenecks. Ship reliable software.**
+
+Most of my work sits at the intersection of:
+
+- scalable backend systems
+- modern frontend ecosystems
+- real time data automation
+- interactive 3D web graphics
+
+Right now I am heavily focused on automating services and building concurrent data extraction pipelines that operate strictly in real time without traditional database constraints.
+
 ---
-</div>
-<div align="center">
-  <a href="mailto:prateek45698@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-000000?style=for-the-badge&logo=gmail&logoColor=white&color=00FF99" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/prateek-1kumar">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&color=00FF99" alt="LinkedIn" />
-  </a>
-  <a href="https://prateekkumar.me">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&color=00FF99" alt="Portfolio" />
-  </a>
-</div>
 
-<br/>
-I am a Software Development Engineer specializing in the Next.js/React ecosystem and advanced automation. I build high-fidelity interactive environments, complex commerce integrations, and real-time systems that operate without traditional database bottlenecks.
+## 🧠 What I Like Building
 
-*   **Front-End & 3D:** Crafting immersive, high-performance UIs using **React**, **Next.js**, and **Three.js**.
-*   **Back-End & Architecture:** Designing scalable systems, APIs, and microservices with **Node.js** and **TypeScript**.
-*   **Data Extraction & AI:** Developing advanced, real-time web scrapers using **Puppeteer** that bypass detection mechanisms and deliver concurrent, low-latency data streams.
+- Real time automation workflows and scrapers
+- High performance web applications using Next.js
+- Scalable APIs and microservices
+- Immersive browser graphics with Three.js
+- Seamless e-commerce and travel API integrations
 
-<br/>
-<div align="center">
+---
 
-<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white&color=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
-<br/>
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white&color=339933" alt="Node.js" />
-<img src="https://img.shields.io/badge/Puppeteer-000000?style=for-the-badge&logo=puppeteer&logoColor=white&color=40B5A4" alt="Puppeteer" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248" alt="MongoDB" />
+## ⚙️ Tech Stack
 
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,mongodb,express,docker,git,github,vscode,vercel,linux&theme=dark" alt="Tech stack icons" />
+</p>
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
+## 📊 GitHub Metrics
 
-<br/>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/prateek-1kumar/bg.svg" alt="Profile Views" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prateek-1kumar&show_icons=true&theme=transparent&hide_border=true&title_color=00FF99&text_color=c9d1d9&icon_color=00FF99" alt="Prateek's GitHub Stats" />
+</p>
