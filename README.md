@@ -1,9 +1,3 @@
-The Snake animation is broken in your screenshot because the image file doesn't actually exist in your repository yet. It isn't a simple API link like the other widgets; it requires a GitHub Action to physically draw the snake by reading your commit history and saving it as an SVG. 
-
-I have removed the Pulse and Language stats as requested, so we can focus entirely on getting this Snake running.
-
-Here is the updated Markdown for your `README.md`. 
-```markdown
 # Hi, I'm Prateek 👋
 
 > Software Engineer. Systems builder. Automation specialist.
