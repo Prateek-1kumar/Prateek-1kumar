@@ -1,3 +1,9 @@
+The Snake animation is broken in your screenshot because the image file doesn't actually exist in your repository yet. It isn't a simple API link like the other widgets; it requires a GitHub Action to physically draw the snake by reading your commit history and saving it as an SVG. 
+
+I have removed the Pulse and Language stats as requested, so we can focus entirely on getting this Snake running.
+
+Here is the updated Markdown for your `README.md`. 
+```markdown
 # Hi, I'm Prateek 👋
 
 > Software Engineer. Systems builder. Automation specialist.
@@ -20,7 +26,7 @@ Right now my focus is on:
 ## ⚙️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,threejs,nodejs,express,mongodb,postgres,puppeteer,docker,aws,githubactions,linux,py,cpp,redux,tailwind,figma,postman&theme=dark" alt="Tech stack icons" />
+  <img src="[https://skillicons.dev/icons?i=ts,js,nextjs,react,threejs,nodejs,express,mongodb,postgres,puppeteer,docker,aws,githubactions,linux,py,cpp,redux,tailwind,figma,postman&theme=dark](https://skillicons.dev/icons?i=ts,js,nextjs,react,threejs,nodejs,express,mongodb,postgres,puppeteer,docker,aws,githubactions,linux,py,cpp,redux,tailwind,figma,postman&theme=dark)" alt="Tech stack icons" />
 </p>
 
 ---
@@ -33,19 +39,7 @@ Right now my focus is on:
 
 ---
 
-## 🚀 "Crazy" High-Tech Metrics
+## 🚀 Contribution Pipeline
 
-### Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Prateek-1kumar/Prateek-1kumar/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-### Activity Pulse
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prateek-1kumar&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</p>
-
-### Language Distribution
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prateek-1kumar&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF99" alt="Top Languages" />
-</p>
+  <picture>```
