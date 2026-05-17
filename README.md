@@ -19,8 +19,8 @@ Right now my focus is on:
 
 ## ⚙️ Tech Stack
 
-<p>
-  <img src="[https://skillicons.dev/icons?i=ts,js,nextjs,react,threejs,nodejs,express,mongodb,postgres,puppeteer,docker,aws,githubactions,linux,py,cpp,redux,tailwind,figma,postman&theme=dark](https://skillicons.dev/icons?i=ts,js,nextjs,react,threejs,nodejs,express,mongodb,postgres,puppeteer,docker,aws,githubactions,linux,py,cpp,redux,tailwind,figma,postman&theme=dark)" alt="Tech stack icons" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,threejs,nodejs,express,mongodb,postgres,puppeteer,docker,aws,githubactions,linux,py,cpp,redux,tailwind,figma,postman&theme=dark" />
 </p>
 
 ---
