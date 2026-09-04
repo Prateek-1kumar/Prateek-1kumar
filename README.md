@@ -1,37 +1,23 @@
-# Hi, I'm Prateek 👋
+# Hi, I'm Prateek
 
-> Software Engineer. Systems builder. Automation specialist.
-> Engineering real-time pipelines and immersive digital worlds.
+**Software Engineer · Systems Builder · Automation**
 
-I focus on the space between complex backend logic and high-fidelity interfaces. My work involves building data engines that run in real time and rendering 3D environments directly in the browser.
+I build **high-performance software systems, autonomous workflows, and data-intensive products** across the full stack.
 
-I follow a simple engineering rule:
+**Systems over scripts. Automation over repetition. Determinism where possible, intelligence where necessary.**
+I care about **reliability, observability, concurrency, graceful failure, and shipping software that survives contact with reality.**
 
-**Optimize for speed. Automate the repetitive. Build for scale.**
+My work sits at the intersection of **backend engineering, AI agents, automation, real-time data, and immersive interfaces**.
 
-Right now my focus is on:
+> **Automate the repetitive. Engineer for scale. Keep the system brutally simple.**
 
-* **Real-Time Data:** Building concurrent extraction pipelines that bypass detection without using traditional databases to maintain zero latency.
-* **Automated Services:** Developing workflows that handle complex commerce and travel API integrations.
-* **Immersive Web:** Using Three.js to create interactive visualizations and game-like browser experiences.
+### ⚙️ Current Focus
 
----
+- **AI & Automation** — agentic workflows, tool orchestration, API automation, human-in-the-loop systems
+- **Backend Systems** — TypeScript, Bun/Node.js, PostgreSQL, Redis, queues, workers, distributed workflows
+- **Data Infrastructure** — high-throughput ingestion, extraction, normalization, identity resolution
+- **Product Engineering** — Next.js, React, real-time applications, and occasionally unnecessary amounts of Three.js
 
-## ⚙️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,threejs,nodejs,express,mongodb,postgres,puppeteer,docker,aws,githubactions,linux,py,cpp,redux,tailwind,figma,postman&theme=dark" />
-</p>
-
----
-
-## 🧠 What I'm Building
-
-* **Advanced Scrapers:** Real-time data extraction tools using Puppeteer and TypeScript.
-* **Travel Commerce:** Leading the core engineering for travel hub platforms and API integrations.
-* **3D Visualizations:** Isometric wireframe cities and particle systems built with Three.js.
-
----
 
 <p align="center">
   <picture>
