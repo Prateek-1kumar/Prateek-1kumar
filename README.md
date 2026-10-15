@@ -1,5 +1,4 @@
-<h4 allign="center">"The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers." </h4>
-
+<h4 align="center">"The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers." </h4>
 
 <p align="center">
   <picture>
