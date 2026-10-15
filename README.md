@@ -1,4 +1,4 @@
-<p align="center>"The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers." </p>p>
+<p align="center>"The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers." </p>
 
 
 <p align="center">
